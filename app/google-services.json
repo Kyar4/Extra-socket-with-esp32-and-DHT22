@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "601719916193",
+    "firebase_url": "https://iot-esp32-61821-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-esp32-61821",
+    "storage_bucket": "iot-esp32-61821.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601719916193:android:99219b2e92c11fd8b8d2e0",
+        "android_client_info": {
+          "package_name": "com.example.padora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9CaRTnYk4au0X1WKolSo29aaiMVE7No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
